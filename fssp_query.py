@@ -139,7 +139,7 @@ def get_ip(filename,
 
 
 if __name__ == '__main__':
-    settings_dct = dict(token="TqMfEh4ffNsj",
+    settings_dct = dict(token="S3CyCy831kMh",
                         host="host",
                         password="********",
                         port=3128,
